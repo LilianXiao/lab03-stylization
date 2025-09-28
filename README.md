@@ -40,7 +40,8 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image.
 
 ### 3. Puzzle 3: Stylized Shadow
 
-<img width="436" alt="277998492-be35de1e-1157-4a6e-b4ea-ba015f2750c9" src="https://github.com/CIS-566-Fall-2023/lab05-stylization/assets/1758825/d60cb866-ea00-4f4b-8d53-c85fa1b170f6">
+<img width="758" height="434" alt="image" src="https://github.com/user-attachments/assets/5e194ee2-8cf9-4afa-b948-76380dd53f71" />
+
 
    * Use one of the provided texture png’s in order to add a screenspace shadow pattern onto the shadows of the scene!
    * Hint 1: What does the "ShadowAttenuation" variable do?

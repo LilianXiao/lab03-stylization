@@ -4,6 +4,9 @@ Let's practice adding stylization to a 3D scene using Unity's shader graph!
 # PUZZLE 1
 <img width="686" height="379" alt="image" src="https://github.com/user-attachments/assets/5f374e8e-828a-412a-811b-9f7f07a15c3f" />
 
+# PUZZLE 2
+<img width="776" height="454" alt="image" src="https://github.com/user-attachments/assets/92d091e3-f0da-4fb8-b8b4-216c5a0cd552" />
+
 
 ## Introduction
 We will be stylizing a "toon" look by creating a shader in Unity that supports shadows and multiple lights in real-time! In the process, you will gain some familiarity with Unity’s shader graph.
